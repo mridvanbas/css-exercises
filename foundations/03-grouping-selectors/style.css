@@ -1,0 +1,15 @@
+.greenbtn,
+.redbtn {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.greenbtn {
+    background-color: green;
+    color: white;
+}
+
+.redbtn {
+    background-color: red;
+    color: black;
+}
